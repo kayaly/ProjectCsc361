@@ -197,8 +197,6 @@ public class State  {
      }
         public String Move_S() {
    if (Postion_R_X ==  -1 ){
-       System.out.print("change");
-              
          return  "\nHole" ;
        
    }
